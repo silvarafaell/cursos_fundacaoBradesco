@@ -1,0 +1,10 @@
+C:\Users\Rafael\OneDrive\C# basico - Bradesco\capitulo 2\calculos basicos\calculos basicos\bin\Debug\calculos basicos.exe.config
+C:\Users\Rafael\OneDrive\C# basico - Bradesco\capitulo 2\calculos basicos\calculos basicos\bin\Debug\calculos basicos.exe
+C:\Users\Rafael\OneDrive\C# basico - Bradesco\capitulo 2\calculos basicos\calculos basicos\bin\Debug\calculos basicos.pdb
+C:\Users\Rafael\OneDrive\C# basico - Bradesco\capitulo 2\calculos basicos\calculos basicos\obj\Debug\calculos basicos.csprojAssemblyReference.cache
+C:\Users\Rafael\OneDrive\C# basico - Bradesco\capitulo 2\calculos basicos\calculos basicos\obj\Debug\calculos_basicos.Form1.resources
+C:\Users\Rafael\OneDrive\C# basico - Bradesco\capitulo 2\calculos basicos\calculos basicos\obj\Debug\calculos_basicos.Properties.Resources.resources
+C:\Users\Rafael\OneDrive\C# basico - Bradesco\capitulo 2\calculos basicos\calculos basicos\obj\Debug\calculos basicos.csproj.GenerateResource.cache
+C:\Users\Rafael\OneDrive\C# basico - Bradesco\capitulo 2\calculos basicos\calculos basicos\obj\Debug\calculos basicos.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\OneDrive\C# basico - Bradesco\capitulo 2\calculos basicos\calculos basicos\obj\Debug\calculos basicos.exe
+C:\Users\Rafael\OneDrive\C# basico - Bradesco\capitulo 2\calculos basicos\calculos basicos\obj\Debug\calculos basicos.pdb

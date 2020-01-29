@@ -1,0 +1,10 @@
+C:\Users\Rafael\Documents\cursos\C# avançado - Bradesco\capitulo 1\Tratamento_Erros\Tratamento_Erros\bin\Debug\Tratamento_Erros.exe.config
+C:\Users\Rafael\Documents\cursos\C# avançado - Bradesco\capitulo 1\Tratamento_Erros\Tratamento_Erros\bin\Debug\Tratamento_Erros.exe
+C:\Users\Rafael\Documents\cursos\C# avançado - Bradesco\capitulo 1\Tratamento_Erros\Tratamento_Erros\bin\Debug\Tratamento_Erros.pdb
+C:\Users\Rafael\Documents\cursos\C# avançado - Bradesco\capitulo 1\Tratamento_Erros\Tratamento_Erros\obj\Debug\Tratamento_Erros.csprojAssemblyReference.cache
+C:\Users\Rafael\Documents\cursos\C# avançado - Bradesco\capitulo 1\Tratamento_Erros\Tratamento_Erros\obj\Debug\Tratamento_Erros.Form1.resources
+C:\Users\Rafael\Documents\cursos\C# avançado - Bradesco\capitulo 1\Tratamento_Erros\Tratamento_Erros\obj\Debug\Tratamento_Erros.Properties.Resources.resources
+C:\Users\Rafael\Documents\cursos\C# avançado - Bradesco\capitulo 1\Tratamento_Erros\Tratamento_Erros\obj\Debug\Tratamento_Erros.csproj.GenerateResource.cache
+C:\Users\Rafael\Documents\cursos\C# avançado - Bradesco\capitulo 1\Tratamento_Erros\Tratamento_Erros\obj\Debug\Tratamento_Erros.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\Documents\cursos\C# avançado - Bradesco\capitulo 1\Tratamento_Erros\Tratamento_Erros\obj\Debug\Tratamento_Erros.exe
+C:\Users\Rafael\Documents\cursos\C# avançado - Bradesco\capitulo 1\Tratamento_Erros\Tratamento_Erros\obj\Debug\Tratamento_Erros.pdb

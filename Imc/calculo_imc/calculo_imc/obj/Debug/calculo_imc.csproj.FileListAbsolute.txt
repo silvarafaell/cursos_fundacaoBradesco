@@ -1,0 +1,20 @@
+C:\Users\Rafael\source\repos\calculo_imc\calculo_imc\bin\Debug\calculo_imc.exe.config
+C:\Users\Rafael\source\repos\calculo_imc\calculo_imc\bin\Debug\calculo_imc.exe
+C:\Users\Rafael\source\repos\calculo_imc\calculo_imc\bin\Debug\calculo_imc.pdb
+C:\Users\Rafael\source\repos\calculo_imc\calculo_imc\obj\Debug\calculo_imc.csprojAssemblyReference.cache
+C:\Users\Rafael\source\repos\calculo_imc\calculo_imc\obj\Debug\calculo_imc.FrmImc.resources
+C:\Users\Rafael\source\repos\calculo_imc\calculo_imc\obj\Debug\calculo_imc.Properties.Resources.resources
+C:\Users\Rafael\source\repos\calculo_imc\calculo_imc\obj\Debug\calculo_imc.csproj.GenerateResource.cache
+C:\Users\Rafael\source\repos\calculo_imc\calculo_imc\obj\Debug\calculo_imc.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\source\repos\calculo_imc\calculo_imc\obj\Debug\calculo_imc.exe
+C:\Users\Rafael\source\repos\calculo_imc\calculo_imc\obj\Debug\calculo_imc.pdb
+C:\Users\Rafael\Documents\cursos\C# basico - Bradesco\capitulo 2\calculo_imc\calculo_imc\bin\Debug\calculo_imc.exe.config
+C:\Users\Rafael\Documents\cursos\C# basico - Bradesco\capitulo 2\calculo_imc\calculo_imc\bin\Debug\calculo_imc.exe
+C:\Users\Rafael\Documents\cursos\C# basico - Bradesco\capitulo 2\calculo_imc\calculo_imc\bin\Debug\calculo_imc.pdb
+C:\Users\Rafael\Documents\cursos\C# basico - Bradesco\capitulo 2\calculo_imc\calculo_imc\obj\Debug\calculo_imc.csprojAssemblyReference.cache
+C:\Users\Rafael\Documents\cursos\C# basico - Bradesco\capitulo 2\calculo_imc\calculo_imc\obj\Debug\calculo_imc.FrmImc.resources
+C:\Users\Rafael\Documents\cursos\C# basico - Bradesco\capitulo 2\calculo_imc\calculo_imc\obj\Debug\calculo_imc.Properties.Resources.resources
+C:\Users\Rafael\Documents\cursos\C# basico - Bradesco\capitulo 2\calculo_imc\calculo_imc\obj\Debug\calculo_imc.csproj.GenerateResource.cache
+C:\Users\Rafael\Documents\cursos\C# basico - Bradesco\capitulo 2\calculo_imc\calculo_imc\obj\Debug\calculo_imc.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\Documents\cursos\C# basico - Bradesco\capitulo 2\calculo_imc\calculo_imc\obj\Debug\calculo_imc.exe
+C:\Users\Rafael\Documents\cursos\C# basico - Bradesco\capitulo 2\calculo_imc\calculo_imc\obj\Debug\calculo_imc.pdb
